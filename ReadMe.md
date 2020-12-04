@@ -35,7 +35,7 @@ Demo - Integrate Springboot with HTTPS
     
     tips: 本地测试，可能需要手动将 d:\keystore.httpskey copy到 编译的文件的 classes目录下
     
-5 - 启动即可用  
+5 - HTTPS 配置完成 - 即可通过https访问服务  
 
 6 - 同时启用 http(springboot 默认在启用https后, http会变不可用)  
     
